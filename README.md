@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/Cream%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+![Cover Image](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/cover.png)
 
 <a href="https://www.linkedin.com/in/bethlehem-desalgne/">
   <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" width="30" alt="Website">
