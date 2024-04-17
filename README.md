@@ -3,13 +3,14 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bethlehem-desalgne/" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/bethlehem-desalgne/" style="margin-right: 10px; display: inline-block;">
     <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" width="30" alt="LinkedIn">
-  </a>
-  <a href="https://bethlehemdesalgne.github.io/">
+  </a><!--
+  --><a href="https://bethlehemdesalgne.github.io/" style="display: inline-block;">
     <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png" width="30" alt="Website">
   </a>
 </div>
+
 
 
 
