@@ -1,4 +1,6 @@
-![Cover Image](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/cover.png)
+
+<img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/cover.png" width="800" alt="Cover Image">
+
 
 <a href="https://www.linkedin.com/in/bethlehem-desalgne/">
   <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" width="30" alt="Website">
