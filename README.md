@@ -1,4 +1,7 @@
 ![Cover Image](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/Cream%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+[![Website](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.jpg)](your-website-url)
+[![LinkedIn](url-to-linkedin-icon)](your-linkedin-url)
+
 
 
 
