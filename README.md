@@ -8,9 +8,6 @@
 </a>
 
 
-[![Website](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png)](https://www.linkedin.com/in/bethlehem-desalgne/)
-[![LinkedIn](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png)](https://bethlehemdesalgne.github.io/)
-
 
 
 
