@@ -4,7 +4,7 @@
   <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" width="50" alt="Website">
 </a>
 <a href="https://bethlehemdesalgne.github.io/">
-  <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png" width="50" alt="LinkedIn">
+  <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png" width="30" alt="LinkedIn">
 </a>
 
 
