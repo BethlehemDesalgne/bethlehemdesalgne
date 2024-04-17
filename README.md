@@ -14,7 +14,7 @@ Hi 👋, I'm a full-stack web developer with a background in biology and legal s
 ### pdfAssist
 A full-stack web application that allows users to create documents ready for filing in court by simply filling out a form.
 - **Tech Stack:** ES6, Bootstrap, CSS, Node.js, & MongoDB
-- [Repo]([link-to-repo](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist))
+- [Repo](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist)
 
 ### Traveler
 A full-stack web app that allows users to create lists of places they would like to visit.
