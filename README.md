@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/cover.png)
+![Cover Image](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/cover - Copy.png)
 
 
 
