@@ -4,6 +4,12 @@
 [![Website](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png)](https://www.linkedin.com/in/bethlehem-desalgne/)
 [![LinkedIn](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png)](https://bethlehemdesalgne.github.io/)
 
+<a href="your-website-url">
+  <img src="(https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" alt="Website" width="50" />
+</a>
+<a href="your-linkedin-url">
+  <img src="(https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png)" alt="LinkedIn" width="50" />
+</a>
 
 
 
