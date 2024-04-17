@@ -1,7 +1,7 @@
 ![Cover Image](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/Cream%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 <a href="https://www.linkedin.com/in/bethlehem-desalgne/">
-  <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" width="50" alt="Website">
+  <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" width="30" alt="Website">
 </a>
 <a href="https://bethlehemdesalgne.github.io/">
   <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png" width="30" alt="LinkedIn">
