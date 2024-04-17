@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
+![Cover Image](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/Cream%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 # Beth
 ### Software Engineer
@@ -14,9 +14,11 @@ Hi 👋, I'm a full-stack web developer with a background in biology and legal s
 ## Projects
 
 ### pdfAssist
+![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
 A full-stack web application that allows users to create documents ready for filing in court by simply filling out a form.
 - **Tech Stack:** ES6, Bootstrap, CSS, Node.js, & MongoDB
 - [Repo](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist)
+- 
 
 ### Traveler
 A full-stack web app that allows users to create lists of places they would like to visit.
