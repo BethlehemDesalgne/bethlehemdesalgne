@@ -1,3 +1,5 @@
+![Cover Image](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
+
 # Beth
 ### Software Engineer
 
