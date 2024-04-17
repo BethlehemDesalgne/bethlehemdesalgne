@@ -2,16 +2,6 @@
 
 
 
-
-## Connect with me:
-[![Website Badge](https://img.shields.io/badge/-website-blue)](Your-website-url)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](Your-LinkedIn-url)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue)](Your-Twitter-url)
-[![AngelList Badge](https://img.shields.io/badge/-AngelList-blue)](Your-AngelList-url)
-[![Website](url-to-website-icon)](your-website-url)
-[![LinkedIn](url-to-linkedin-icon)](your-linkedin-url)
-
-
 Hi 👋, I'm an Automation developer with background in Architecture. I have a keen interest in Automation, leveraging my expertise to develop data-driven solutions that improve operational efficiency and drive growth. 
 
 
