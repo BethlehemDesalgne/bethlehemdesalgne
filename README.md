@@ -1,15 +1,17 @@
 ![Cover Image](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/Cream%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
-# Beth
-### Software Engineer
 
-Hi 👋, I'm a full-stack web developer with a background in biology and legal support. I'm motivated by the positive impacts technology can have on people's lives.
+
 
 ## Connect with me:
 [![Website Badge](https://img.shields.io/badge/-website-blue)](Your-website-url)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](Your-LinkedIn-url)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue)](Your-Twitter-url)
 [![AngelList Badge](https://img.shields.io/badge/-AngelList-blue)](Your-AngelList-url)
+
+
+Hi 👋, I'm an Automation developer with background in Architecture. I have a keen interest in Automation, leveraging my expertise to develop data-driven solutions that improve operational efficiency and drive growth. 
+
 
 ## Projects
 
