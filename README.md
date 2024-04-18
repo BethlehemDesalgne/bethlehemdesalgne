@@ -2,7 +2,7 @@
 
 
 
-<div align="center" style="padding-bottom: 10px;"> <!-- Adjust padding-bottom to manage space -->
+<div align="center" style="padding-bottom: 100px;"> <!-- Adjust padding-bottom to manage space -->
   <a href="https://bethlehemdesalgne.github.io/">
     <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png" width="30" alt="Website" title="Visit my website!">
   </a>
