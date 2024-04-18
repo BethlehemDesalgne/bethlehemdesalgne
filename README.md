@@ -28,20 +28,20 @@ I'm an Automation developer with background in Architecture. I have a keen inter
   <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <h3>AUTOMATING CRYPTO WEBSITE API PULL USING PYTHON</h3>
+        <h3>AUTOMATING CRYPTO WEBSITE API PULL</h3>
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/api.png" alt="API Screenshot" width="100%" />
       </div>
-      <p align="center">In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
+      <p align="center"><strong>PYTHON</strong> - In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
     </td>
     <td valign="top" width="50%">
       <div align="center">
-        <h3>DATA CLEANING IN SQL</h3>
+        <h3>DATA CLEANING</h3>
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Houses.jpg" alt="SQL Screenshot" width="100%" />
       </div>
-      <p align="center">In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
+      <p align="center"><strong>SQL</strong> - In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
@@ -64,7 +64,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
     <td valign="top" width="50%">
       <div align="center">
         <h3>MOVIE CORRELATION</h3>
-        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Houses.jpg" alt="SQL Screenshot" width="100%" />
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/movie.jpg" alt="SQL Screenshot" width="100%" />
       </div>
       <p align="center"><strong>PYTHON</strong> - In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL">
@@ -76,7 +76,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
 
 https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/web%20scraping.jpg
 
-https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/movie.jpg
+
 
 https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/covid.jpg
 
