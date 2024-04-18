@@ -22,17 +22,11 @@ I'm an Automation developer with background in Architecture. I have a keen inter
 
 <br> <!-- Adds a space before the greeting -->
 
-<div align="center" style="font-size: 44px;; font-weight: bold;">
-Projects
-</div>
-
-
 
 <div align="center">
-
 ### Projects
-
 </div>
+
 
 
 ### pdfAssist
