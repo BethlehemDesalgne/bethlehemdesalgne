@@ -62,7 +62,7 @@ In this project, I take raw housing data and transform it in SQL Server to make 
       </div>
       <p>In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
       <p><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
-        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" alt="Repo" width="40px"/> Repo
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="70px"/> Repo
       </a></p>
     </td>
     <td valign="top" width="50%">
@@ -72,7 +72,7 @@ In this project, I take raw housing data and transform it in SQL Server to make 
       </div>
       <p>In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
       <p><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
-        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" alt="Repo" width="40px"/> Repo
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="70px"/> Repo
       </a></p>
     </td>
   </tr>
