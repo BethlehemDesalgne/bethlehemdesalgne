@@ -51,3 +51,30 @@ In this project, I take raw housing data and transform it in SQL Server to make 
 
 - [Repo](https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python)
 
+
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h3>AUTOMATING CRYPTO WEBSITE API PULL USING PYTHON</h3>
+        <img src="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python/blob/main/API.png" alt="API Screenshot" width="100%" />
+      </div>
+      <p>In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
+      <p><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
+        <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/github-icon.png" alt="Repo" width="20px"/> Repo
+      </a></p>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h3>DATA CLEANING IN SQL</h3>
+        <img src="https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png" alt="SQL Screenshot" width="100%" />
+      </div>
+      <p>In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
+      <p><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
+        <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/github-icon.png" alt="Repo" width="20px"/> Repo
+      </a></p>
+    </td>
+  </tr>
+</table>
+
