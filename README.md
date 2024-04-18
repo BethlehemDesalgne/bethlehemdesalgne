@@ -30,7 +30,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
     <td valign="top" width="50%">
       <div align="center">
         <h3>AUTOMATING CRYPTO WEBSITE API PULL USING PYTHON</h3>
-        <img src="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python/blob/main/API.png" alt="API Screenshot" width="100%" />
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/api.png" alt="API Screenshot" width="100%" />
       </div>
       <p align="center">In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
@@ -40,7 +40,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
     <td valign="top" width="50%">
       <div align="center">
         <h3>DATA CLEANING IN SQL</h3>
-        <img src="https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png" alt="SQL Screenshot" width="100%" />
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Houses.jpg" alt="SQL Screenshot" width="100%" />
       </div>
       <p align="center">In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL">
@@ -49,4 +49,43 @@ I'm an Automation developer with background in Architecture. I have a keen inter
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h3>DATA PROFESSIONAL SURVEY ANALYSIS USING POWER BI</h3>
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Data%20P.png" alt="API Screenshot" width="100%" />
+      </div>
+      <p align="center">In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
+      <p align="center"><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
+      </a></p>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h3>MOVIE CORRELATION WITH PYTHON</h3>
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Houses.jpg" alt="SQL Screenshot" width="100%" />
+      </div>
+      <p align="center">In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
+      <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL">
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
+      </a></p>
+    </td>
+  </tr>
+</table>
+
+https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/web%20scraping.jpg
+
+https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/movie.jpg
+
+https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/covid.jpg
+
+
+
+https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Covid%20Tableau.png
+
+https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Airbnb.png
+
+https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/amazon.png
 
