@@ -28,18 +28,15 @@ I'm an Automation developer with background in Architecture. I have a keen inter
 </div>
 
 
-
-### pdfAssist
+<div align="center">
+### AUTOMATING CRYPTO WEBSITE API PULL USING PYTHON
+</div>
 ![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
-A full-stack web application that allows users to create documents ready for filing in court by simply filling out a form.
-- **Tech Stack:** ES6, Bootstrap, CSS, Node.js, & MongoDB
-- [Repo](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist)
-- 
+In this project I used Python to Automatically scrape data from Crypto API multiple times a day and append it to a csv file.
 
-### Traveler
-A full-stack web app that allows users to create lists of places they would like to visit.
-- **Tech Stack:** ES6, CSS, Node.js, & MongoDB
-- [Repo](link-to-repo)
-
-<!-- You can add more projects here -->
+<div align="center">
+### DATA CLEANING IN SQL
+![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
+</div>
+In this project I take raw housing data and transform it in SQL Server to make it more usable for analysis.
 
