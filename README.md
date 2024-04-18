@@ -8,7 +8,7 @@
     <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png" width="30" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/bethlehem-desalgne/" style="margin-right: 10; display: inline-block;">
-    <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" width="35" alt="LinkedIn">
+    <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" width="32" alt="LinkedIn">
 
 </div>
 
