@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<div align="center" style="padding-top: 10px;"> <!-- Adjust padding-top to manage space -->
+<div align="center" style="padding-top: 100px;"> <!-- Adjust padding-top to manage space -->
 Hi 👋
 </div>
 <div align="center">
