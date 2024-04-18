@@ -34,23 +34,23 @@ I'm an Automation developer with background in Architecture. I have a keen inter
       <div align="center">
         <h3>AUTOMATING CRYPTO WEBSITE API PULL USING PYTHON</h3>
         <img src="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python/blob/main/API.png" alt="API Screenshot" width="100%" />
-      
+      </div>
       <p>In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
       <p><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
-      </div>
+      
     </td>
     <td valign="top" width="50%">
       <div align="center">
         <h3>DATA CLEANING IN SQL</h3>
         <img src="https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png" alt="SQL Screenshot" width="100%" />
-      
+      </div>
       <p>In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
       <p><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
-      </div>
+      
     </td>
   </tr>
 </table>
