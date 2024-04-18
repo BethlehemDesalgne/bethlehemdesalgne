@@ -19,7 +19,12 @@ Hi 👋
 <div align="center">
 I'm an Automation developer with background in Architecture. I have a keen interest in Automation, leveraging my expertise to develop data-driven solutions that improve operational efficiency and drive growth. 
 </div>
-## Projects
+
+<br> <!-- Adds a space before the greeting -->
+
+<div align="center">
+Projects
+</div>
 
 ### pdfAssist
 ![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
