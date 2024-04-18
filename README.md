@@ -28,7 +28,12 @@ Projects
 
 
 
+<div align="center">
+
 ### Projects
+
+</div>
+
 
 ### pdfAssist
 ![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
