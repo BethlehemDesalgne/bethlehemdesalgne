@@ -22,7 +22,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
 <br> <!-- Adds a space before the greeting -->
 
 
-<div align="center"><h3>Projects</h3></div>
+<div align="center"><h3>PROJECTS</h3></div>
 
 <table>
   <tr>
