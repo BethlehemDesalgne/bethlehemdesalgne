@@ -28,6 +28,8 @@ Projects
 
 
 
+### Projects
+
 ### pdfAssist
 ![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
 A full-stack web application that allows users to create documents ready for filing in court by simply filling out a form.
