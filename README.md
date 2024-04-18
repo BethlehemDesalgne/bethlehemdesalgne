@@ -54,20 +54,20 @@ I'm an Automation developer with background in Architecture. I have a keen inter
   <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <h3>DATA PROFESSIONAL SURVEY ANALYSIS USING POWER BI</h3>
+        <h3>DATA PROFESSIONAL SURVEY ANALYSIS</h3>
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Data%20P.png" alt="API Screenshot" width="100%" />
       </div>
-      <p align="center">In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
+      <p align="center"><strong>POWER BI</strong> - In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
     </td>
     <td valign="top" width="50%">
       <div align="center">
-        <h3>MOVIE CORRELATION WITH PYTHON</h3>
+        <h3>MOVIE CORRELATION</h3>
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Houses.jpg" alt="SQL Screenshot" width="100%" />
       </div>
-      <p align="center">In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
+      <p align="center">PYTHON - In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
