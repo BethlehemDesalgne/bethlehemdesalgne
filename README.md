@@ -66,7 +66,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
         <h3>MOVIE CORRELATION</h3>
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Houses.jpg" alt="SQL Screenshot" width="100%" />
       </div>
-      <p align="center"><strong>PYTHON<strong> - In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
+      <p align="center"><strong>PYTHON</strong>strong> - In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
