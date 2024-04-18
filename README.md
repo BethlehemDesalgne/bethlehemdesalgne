@@ -29,11 +29,17 @@ I'm an Automation developer with background in Architecture. I have a keen inter
 
 
 <div align="center">
+
 ### AUTOMATING CRYPTO WEBSITE API PULL USING PYTHON
-</div>
+
 ![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
-In this project I used Python to Automatically scrape data from Crypto API multiple times a day and append it to a csv file.
+
+</div>
+
+In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.
+
 - [Repo](https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python)
+
 
 
 <div align="center">
