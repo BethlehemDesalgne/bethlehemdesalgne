@@ -22,9 +22,10 @@ I'm an Automation developer with background in Architecture. I have a keen inter
 
 <br> <!-- Adds a space before the greeting -->
 
-<div align="center">
-Projects
+<div align="center" style="font-size: 24px; font-weight: bold;">
+    Projects
 </div>
+
 
 ### pdfAssist
 ![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
