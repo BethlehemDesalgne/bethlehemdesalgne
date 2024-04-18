@@ -10,7 +10,7 @@
     <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" width="31.5" alt="LinkedIn" title="Connect on LinkedIn">
   </a>
 </div>
-
+<br> <!-- Adds a space before the greeting -->
 <div align="center" style="padding-top: 100px;"> <!-- Adjust padding-top to manage space -->
 Hi 👋
 </div>
