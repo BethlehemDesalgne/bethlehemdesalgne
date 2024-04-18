@@ -32,7 +32,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
 
 ### AUTOMATING CRYPTO WEBSITE API PULL USING PYTHON
 
-![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
+![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python/blob/main/API.png)
 
 </div>
 
@@ -41,10 +41,13 @@ In this project, I used Python to automatically scrape data from a Crypto API mu
 - [Repo](https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python)
 
 
+### DATA CLEANING IN SQL
 
 <div align="center">
-### DATA CLEANING IN SQL
-![pdfAssist Screenshot](https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png)
+  <img src="https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist/blob/main/images/IMAGES.png" alt="pdfAssist Screenshot">
 </div>
-In this project I take raw housing data and transform it in SQL Server to make it more usable for analysis.
+
+In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.
+
 - [Repo](https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python)
+
