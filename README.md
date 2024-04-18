@@ -2,7 +2,7 @@
 
 
 
-<div align="center">
+<div align="center" style="padding-bottom: 10px;"> <!-- Adjust padding-bottom to manage space -->
   <a href="https://bethlehemdesalgne.github.io/">
     <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png" width="30" alt="Website" title="Visit my website!">
   </a>
@@ -11,14 +11,13 @@
   </a>
 </div>
 
-
-
-<div align="center">
+<div align="center" style="padding-top: 10px;"> <!-- Adjust padding-top to manage space -->
 Hi 👋
 </div>
 <div align="center">
 I'm an Automation developer with background in Architecture. I have a keen interest in Automation, leveraging my expertise to develop data-driven solutions that improve operational efficiency and drive growth. 
 </div>
+
 
 <br> <!-- Adds a space before the greeting -->
 
