@@ -1,6 +1,6 @@
 ![Cover Image](https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/cover%20-%20Copy.png)
 
-## Connect with me:
+
 
 <div align="center">
   <a href="https://bethlehemdesalgne.github.io/">
