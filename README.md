@@ -4,10 +4,10 @@
 
 <div align="center" style="padding-bottom: 100px;"> <!-- Adjust padding-bottom to manage space -->
   <a href="https://bethlehemdesalgne.github.io/">
-    <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png" width="30" alt="Website" title="Visit my website!">
+    <img src="https://img.shields.io/static/v1?label=%7C&message=website&labelColor=42494F&color=213a59&style=for-the-badge&logo=HTML5&logo-color=white" width="30" alt="Website" title="Visit my website!">
   </a>
   <a href="https://www.linkedin.com/in/bethlehem-desalgne/" style="margin-right: 10px;">
-    <img src="https://img.shields.io/static/v1?label=%7C&message=HTML5&labelColor=42494F&color=213a59&style=for-the-badge&logo=HTML5&logo-color=white" width="31.5" alt="LinkedIn" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/static/v1?label=%7C&message=linkedin&labelColor=42494F&color=213a59&style=for-the-badge&logo=HTML5&logo-color=white" width="31.5" alt="LinkedIn" title="Connect on LinkedIn">
   </a>
 </div>
 <br> <!-- Adds a space before the greeting -->
