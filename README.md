@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/bethlehem-desalgne/" style="margin-right: 10px;">
     <img src="https://img.shields.io/static/v1?label=%7C&message=linkedin&labelColor=42494F&color=213a59&style=for-the-badge&logo=HTML5&logo-color=white"  alt="LinkedIn" title="Connect on LinkedIn">
   </a>
+  <a href="[https://twitter.com/XiaoLGrant](https://twitter.com/Betty_D_Ketema)">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=213a59&style=for-the-badge&logo=twitter&logo-color=white" alt="LinkedIn" title="Connect on LinkedIn">
+  </a>
 </div>
 <br> <!-- Adds a space before the greeting -->
 <div align="center" style="padding-top: 100px;"> <!-- Adjust padding-top to manage space -->
