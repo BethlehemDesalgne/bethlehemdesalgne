@@ -7,7 +7,7 @@
     <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/website.png" width="30" alt="Website" title="Visit my website!">
   </a>
   <a href="https://www.linkedin.com/in/bethlehem-desalgne/" style="margin-right: 10px;">
-    <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png" width="31.5" alt="LinkedIn" title="Connect on LinkedIn">
+    <img src="[https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/linkedin.png](https://img.shields.io/static/v1?label=%7C&message=HTML5&labelColor=42494F&color=213a59&style=for-the-badge&logo=HTML5&logo-color=white)" width="31.5" alt="LinkedIn" title="Connect on LinkedIn">
   </a>
 </div>
 <br> <!-- Adds a space before the greeting -->
