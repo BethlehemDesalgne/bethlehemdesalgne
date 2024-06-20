@@ -31,6 +31,31 @@ I'm an Automation developer with background in Architecture. I have a keen inter
   <tr>
     <td valign="top" width="50%">
       <div align="center">
+        <h3>Trustpilot Customer Review Sentiment Analysis</h3>
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/api.png" alt="API Screenshot" width="100%" />
+      </div>
+      <p align="center"><strong>PYTHON</strong> - This project fetches customer reviews from the Trustpilot website and performs sentiment analysis using OpenAI's GPT-4. The project involves fetching reviews, cleaning and preprocessing the data, analyzing sentiment, and visualizing the results. Finally, the processed data is stored in an Azure SQL Database for further analysis and reporting.</p>
+      <p align="center"><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
+      </a></p>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h3>DATA CLEANING</h3>
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Houses.jpg" alt="SQL Screenshot" width="100%" />
+      </div>
+      <p align="center"><strong>SQL</strong> - In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
+      <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL">
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
+      </a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
         <h3>AUTOMATING CRYPTO WEBSITE API PULL</h3>
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/api.png" alt="API Screenshot" width="100%" />
       </div>
