@@ -79,7 +79,6 @@ I'm an Automation developer with background in Architecture. I have a keen inter
 
 <table>
   <tr>
-
     <td valign="top" width="50%">
       <div align="center">
         <h3>MOVIE CORRELATION</h3>
