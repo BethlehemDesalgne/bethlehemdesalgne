@@ -32,7 +32,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
     <td valign="top" width="50%">
       <div align="center">
         <h3>Trustpilot Customer Review Sentiment Analysis</h3>
-        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Sentiment3.png" alt="API Screenshot" width="100%" />
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/nlp.png" alt="API Screenshot" width="100%" />
       </div>
       <p align="center"><strong>PYTHON</strong> - This project fetches customer reviews from the Trustpilot website and performs sentiment analysis using OpenAI's GPT-4.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Trustpilot-API-Customer-Review-Sentiment-Analysis">
