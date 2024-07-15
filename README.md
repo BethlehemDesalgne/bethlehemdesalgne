@@ -127,6 +127,8 @@ I'm an Automation developer with background in Architecture. I have a keen inter
   </tr>
 </table>
 
+
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -139,6 +141,17 @@ I'm an Automation developer with background in Architecture. I have a keen inter
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
     </td>
-
+    <td valign="top" width="50%">
+      <div align="center">
+        <h3>WEB SCRAPING ONLINE SHOPS WITH SCRAPY</h3>
+        <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/scrapy.jpg" alt="SQL Screenshot" width="100%" />
+      </div>
+      <p align="center"><strong>PYTHON</strong> - In this project I scrape products from a online shop and get names and prices using scrapy.</p>
+      <p align="center"><a href="https://github.com/BethlehemDesalgne/Web-Scraping-Online-Shops-with-Scrapy">
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
+      </a></p>
+    </td>
   </tr>
 </table>
+
+
