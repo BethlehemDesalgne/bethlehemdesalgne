@@ -85,7 +85,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/movie.jpg" alt="SQL Screenshot" width="100%" />
       </div>
       <p align="center"><strong>PYTHON</strong> - In this project I look at what variables effect the gross revenue from movies.</p>
-      <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL">
+      <p align="center"><a href="[https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL](https://github.com/BethlehemDesalgne/Movie-Correlation-in-Python)">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
     </td>
