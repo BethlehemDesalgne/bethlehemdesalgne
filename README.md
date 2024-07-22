@@ -43,6 +43,35 @@ I'm an Automation developer with background in Architecture. I have a keen inter
     </td>
     <td valign="top" width="50%">
       <div align="center">
+        <h3><a href="https://github.com/BethlehemDesalgne/Data-Science-Salary-Estimator" style="text-decoration: none; color: inherit;">DATA SCIENCE SALARY ESTIMATOR</a></h3>
+        <a href="https://github.com/BethlehemDesalgne/Data-Science-Salary-Estimator">
+          <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/data_science.png" alt="API Screenshot" width="100%" />
+        </a>
+      </div>
+      <p align="center"><strong>PYTHON</strong> - This project uses Machine learning to estimate Data Science salary.</p>
+      <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-Science-Salary-Estimator">
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
+      </a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h3><a href="https://github.com/BethlehemDesalgne/Loan-Approval-Prediction" style="text-decoration: none; color: inherit;">LOAN APPROVAL PREDICTION</a></h3>
+        <a href="https://github.com/BethlehemDesalgne/Loan-Approval-Prediction">
+          <img src="https://github.com/BethlehemDesalgne/bethlehemdesalgne/blob/main/images/loan_approval.png" alt="API Screenshot" width="100%" />
+        </a>
+      </div>
+      <p align="center"><strong>PYTHON</strong> - This project uses machine learning to predict whether one's loan request will be approved.</p>
+      <p align="center"><a href="https://github.com/BethlehemDesalgne/Loan-Approval-Prediction">
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
+      </a></p>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
         <h3>AUTOMATING CRYPTO WEBSITE API PULL</h3>
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/api.png" alt="API Screenshot" width="100%" />
       </div>
