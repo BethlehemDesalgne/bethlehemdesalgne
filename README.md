@@ -74,8 +74,8 @@ I'm an Automation developer with background in Architecture. I have a keen inter
       <div align="center">
         <h3><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python" style="text-decoration: none; color: inherit;">AUTOMATING CRYPTO WEBSITE API PULL</a></h3>
         <a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
-        </a>
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/api.png" alt="API Screenshot" width="100%" />
+        </a>
       </div>
       <p align="center"><strong>PYTHON</strong> - In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
