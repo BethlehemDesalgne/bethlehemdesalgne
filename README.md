@@ -74,6 +74,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
       <div align="center">
         <h3><a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python" style="text-decoration: none; color: inherit;">AUTOMATING CRYPTO WEBSITE API PULL</a></h3>
         <a href="https://github.com/BethlehemDesalgne/Automating-Crypto-Website-API-Pull-Using-Python">
+        </a>
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/api.png" alt="API Screenshot" width="100%" />
       </div>
       <p align="center"><strong>PYTHON</strong> - In this project, I used Python to automatically scrape data from a Crypto API multiple times a day and append it to a CSV file.</p>
@@ -91,6 +92,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
         <h3><a href="https://github.com/BethlehemDesalgne/Data-professional-Survey-Analysis-Using-Power-BI" style="text-decoration: none; color: inherit;">DATA PROFESSIONAL SURVEY ANALYSIS</a></h3>
         <a href="https://github.com/BethlehemDesalgne/Data-professional-Survey-Analysis-Using-Power-BI">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Data%20P.png" alt="API Screenshot" width="100%" />
+        </a>
       </div>
       <p align="center"><strong>POWER BI</strong> - In this project I look into survey completed by Data Professionals to analyze the difficulty, happiness, salary and favourite programming language in the Industry.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-professional-Survey-Analysis-Using-Power-BI">
@@ -102,6 +104,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
         <h3><a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL" style="text-decoration: none; color: inherit;">DATA CLEANING</h3>
         <a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Houses.jpg" alt="SQL Screenshot" width="100%" />
+        </a>
       </div>
       <p align="center"><strong>SQL</strong> - In this project, I take raw housing data and transform it in SQL Server to make it more usable for analysis.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Data-Cleaning-in-SQL">
@@ -118,6 +121,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
         <h3><a href="https://github.com/BethlehemDesalgne/Movie-Correlation-in-Python" style="text-decoration: none; color: inherit;">MOVIE CORRELATION</a></h3>
         <a href="https://github.com/BethlehemDesalgne/Movie-Correlation-in-Python">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/movie.jpg" alt="SQL Screenshot" width="100%" />
+        </a>
       </div>
       <p align="center"><strong>PYTHON</strong> - In this project I look at what variables effect the gross revenue from movies.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Movie-Correlation-in-Python">
@@ -129,6 +133,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
         <h3><a href="https://github.com/BethlehemDesalgne/Amazon-Web-Scraper-using-Python" style="text-decoration: none; color: inherit;">AMAZON WEB SCRAPER</a></h3>
         <a href="https://github.com/BethlehemDesalgne/Amazon-Web-Scraper-using-Python">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/amazon.png" alt="SQL Screenshot" width="100%" />
+        </a>
       </div>
       <p align="center"><strong>PYTHON</strong> - In this project I scrape data from Amazon to analyze price data for products.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Amazon-Web-Scraper-using-Python">
@@ -145,6 +150,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
         <h3><a href="https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist" style="text-decoration: none; color: inherit;">BROWSER AUTOMATION & WEB SCRAPING CRAIGSLIST</a></h3>
         <a href="https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/web%20scraping.jpg" alt="API Screenshot" width="100%" />
+        </a>
       </div>
       <p align="center"><strong>PYTHON</strong> - In this I automated browser search and scraped data from Craigslist and write it to an excel file.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Browser-Automation-Web-Scraping-Craigslist">
@@ -156,6 +162,7 @@ I'm an Automation developer with background in Architecture. I have a keen inter
         <h3><a href="https://public.tableau.com/app/profile/bethlehem.desalgne2097/viz/AirBnBFullProject_16764308320050/Dashboard1" style="text-decoration: none; color: inherit;">AIRBNB HOUSING DASHBOARD</a></h3>
         <a href="https://public.tableau.com/app/profile/bethlehem.desalgne2097/viz/AirBnBFullProject_16764308320050/Dashboard1">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Airbnb.png" alt="SQL Screenshot" width="100%" />
+        </a>
       </div>
       <p align="center"><strong>TABLEAU</strong> - In this project I developed a Dashboard on AirBnB Housing data.</p>
       <p align="center"><a href="https://public.tableau.com/app/profile/bethlehem.desalgne2097/viz/AirBnBFullProject_16764308320050/Dashboard1">
