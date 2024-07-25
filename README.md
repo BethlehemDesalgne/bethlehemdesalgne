@@ -178,13 +178,13 @@ I'm an Automation developer with background in Architecture. I have a keen inter
   <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <h3><a href="https://github.com/BethlehemDesalgne/Covid-19-Data-Exploration-in-SQL" style="text-decoration: none; color: inherit;">COVID 19 DASHBOARD</a></h3>
-        <a href="https://github.com/BethlehemDesalgne/Covid-19-Data-Exploration-in-SQL">
+        <h3><a href="https://public.tableau.com/app/profile/bethlehem.desalgne2097/viz/CovidDashboard_16669775690110/Dashboard1" style="text-decoration: none; color: inherit;">COVID 19 DASHBOARD</a></h3>
+        <a href="https://public.tableau.com/app/profile/bethlehem.desalgne2097/viz/CovidDashboard_16669775690110/Dashboard1">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/Covid%20Tableau.png" alt="API Screenshot" width="100%" />
         </a>
       </div>
       <p align="center"><strong>TABLEAU</strong> - In this project I developed a Dashboard on Covid 19 Global data.</p>
-      <p align="center"><a href="https://github.com/BethlehemDesalgne/Covid-19-Data-Exploration-in-SQL">
+      <p align="center"><a href="https://public.tableau.com/app/profile/bethlehem.desalgne2097/viz/CovidDashboard_16669775690110/Dashboard1">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
     </td>
