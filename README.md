@@ -55,7 +55,6 @@ I'm an Automation developer with background in Architecture. I have a keen inter
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td valign="top" width="50%">
