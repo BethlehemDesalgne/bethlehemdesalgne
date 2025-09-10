@@ -31,6 +31,18 @@ I'm an Automation developer with background in Architecture. I have a keen inter
   <tr>
     <td valign="top" width="50%">
       <div align="center">
+        <h3><a href="https://github.com/BethlehemDesalgne/AI-Powered-Google-Maps-Scraper-with-Playwright-OpenAI" style="text-decoration: none; color: inherit;">AI-POWERED GOOGLE MAPS SCRAPER</a></h3>
+        <a href="https://github.com/BethlehemDesalgne/AI-Powered-Google-Maps-Scraper-with-Playwright-OpenAI">
+          <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/OPENAI_Google_Maps.png" alt="Google Maps Scraper Screenshot" width="100%" />
+        </a>
+      </div>
+      <p align="center"><strong>PYTHON</strong> – This project uses <strong>Playwright</strong> to scrape Google Maps results and <strong>OpenAI GPT</strong> to transform unstructured HTML into clean JSON and CSV datasets.</p>
+      <p align="center"><a href="https://github.com/BethlehemDesalgne/AI-Powered-Google-Maps-Scraper">
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
+      </a></p>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
         <h3><a href="https://github.com/BethlehemDesalgne/Trustpilot-API-Customer-Review-Sentiment-Analysis" style="text-decoration: none; color: inherit;">CUSTOMER REVIEW SENTIMENT ANALYSIS</a></h3>
         <a href="https://github.com/BethlehemDesalgne/Trustpilot-API-Customer-Review-Sentiment-Analysis">
           <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/nlp_2.png" alt="API Screenshot" width="100%" />
@@ -38,6 +50,23 @@ I'm an Automation developer with background in Architecture. I have a keen inter
       </div>
       <p align="center"><strong>PYTHON</strong> - This project fetches customer reviews from the Trustpilot website and performs sentiment analysis using OpenAI's GPT-4.</p>
       <p align="center"><a href="https://github.com/BethlehemDesalgne/Trustpilot-API-Customer-Review-Sentiment-Analysis">
+        <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
+      </a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h3><a href="https://github.com/BethlehemDesalgne/REI-Product-Data-Scraper" style="text-decoration: none; color: inherit;">REI PRODUCT DATA SCRAPER</a></h3>
+        <a href="https://github.com/BethlehemDesalgne/REI-Product-Data-Scraper">
+          <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/REI.png" alt="Scraper Screenshot" width="100%" />
+        </a>
+      </div>
+      <p align="center"><strong>PYTHON</strong> – This project scrapes and normalizes product data from REI.com, exporting clean JSON with details such as price, brand, colors, sizes, availability, ratings, and more. It also includes a <em>Scalability Plan</em> to extend from one category to REI’s entire catalog.</p>
+      <p align="center"><a href="https://github.com/BethlehemDesalgne/REI-Product-Data-Scraper">
         <img src="https://github.com/BethlehemDesalgne/BethlehemDesalgne.github.io/blob/main/images/repo.png" width="100px"/>
       </a></p>
     </td>
